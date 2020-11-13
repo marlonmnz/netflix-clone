@@ -40,6 +40,7 @@ header .container-menu .menu-left{
 header .menu-left img{
     width: 6%;
     margin-right: 30px;
+    cursor: pointer;
 }
 
 header nav a{
